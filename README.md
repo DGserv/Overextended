@@ -2,6 +2,34 @@
 
 - Description : Fichier overextended.cfg contenant la configuration pour ox_inventory et ox_target.
 
+
+# Téléchargement
+
+Télécharger ox_lib
+```
+https://github.com/overextended/ox_lib/releases
+```
+
+Télécharger ox_inventory
+```
+https://github.com/overextended/ox_inventory/releases
+```
+
+Télécharger ox_target
+```
+https://github.com/overextended/ox_target/releases
+```
+
+Télécharger ox_fuel
+```
+https://github.com/overextended/ox_fuel/releases
+```
+
+Télécharger ox_doorlock
+```
+https://github.com/overextended/ox_doorlock/releases
+```
+
 # Installation
 
 
@@ -15,25 +43,11 @@
 > Télécharger config overextended : 
 
 
-**Télécharger ox_lib**
-```
-https://github.com/overextended/ox_lib/releases
-```
 
-> [!NOTE]
-> Télécharger ox_inventory : https://github.com/overextended/ox_inventory/releases
 
-> [!NOTE]
-> Télécharger ox_target : https://github.com/overextended/ox_target/releases
 
-> [!NOTE]
-> Télécharger ox_fuel : https://github.com/overextended/ox_fuel/releases
 
-> [!NOTE]
-> Télécharger ox_doorlock : https://github.com/overextended/ox_doorlock/releases
-
-> [!IMPORTANT]
-> Créez un nouveau dossier nommé **[overextended]** dans votre dossier resources. 
+Créez un nouveau dossier nommé **[overextended]** dans votre dossier resources. 
 
 > [!NOTE]
 > Démarrez les ressources dans cet ordre :
