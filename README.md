@@ -34,9 +34,11 @@
 
 > [!NOTE]
 > Démarrez les ressources dans cet ordre :
- ensure oxmysql
- ensure es_extended
- ensure [core]
- ensure ox_lib
- ensure ox_target
- ensure [overextended]
+
+ensure oxmysql
+ensure es_extended
+ensure [core]
+
+ensure ox_lib
+ensure ox_target
+ensure [overextended]
