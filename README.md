@@ -33,24 +33,11 @@ https://github.com/overextended/ox_doorlock/releases
 # Installation
 
 
-> [!IMPORTANT]
-> Envoyez le fichier overextended.cfg sur votre hébergeur, au même emplacement que votre server.cfg
-
-> [!IMPORTANT]
-> Ajoutez la ligne suivante à la fin de votre server.cfg : **exec overextended.cfg**
-
 > [!NOTE]
-> Télécharger config overextended : 
-
-
-
-
-
-
-Créez un nouveau dossier nommé **[overextended]** dans votre dossier resources. 
-
-> [!NOTE]
-> Démarrez les ressources dans cet ordre :
+> - Envoyez le fichier overextended.cfg sur votre hébergeur, au même emplacement que votre server.cfg
+> - Ajoutez la ligne suivante à la fin de votre server.cfg : **exec overextended.cfg**
+> - Créez un nouveau dossier nommé **[overextended]** dans votre dossier resources. 
+> - Démarrez les ressources dans cet ordre :
 
 - ensure oxmysql 
 - ensure es_extended 
