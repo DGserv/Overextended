@@ -2,18 +2,6 @@
 
 - Description : Fichier overextended.cfg contenant la configuration pour ox_inventory et ox_target.
 
-
-ensure oxmysql
-ensure es_extended
-ensure [2-esx-core]
-
-## ESX OVEREXTENTED
-ensure ox_lib
-ensure ox_target
-ensure [overextended]
-
-
-
 # Installation
 
 
@@ -46,9 +34,9 @@ ensure [overextended]
 
 > [!NOTE]
 > Démarrez les ressources dans cet ordre :
-> ensure oxmysql
-> ensure es_extended
-> ensure [core]
-> ensure ox_lib
-> ensure ox_target
-> ensure [overextended]
+ ensure oxmysql
+ ensure es_extended
+ ensure [core]
+ ensure ox_lib
+ ensure ox_target
+ ensure [overextended]
