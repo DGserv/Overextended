@@ -15,8 +15,8 @@
 > Télécharger config overextended : 
 
 > [!NOTE]
-> Télécharger ox_lib 
->```
+**Télécharger ox_lib**
+```
 https://github.com/overextended/ox_lib/releases
 ```
 
