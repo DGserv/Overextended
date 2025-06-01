@@ -39,9 +39,12 @@ https://github.com/overextended/ox_doorlock/releases
 > - Envoyez le fichier overextended.cfg sur votre hébergeur, au même emplacement que votre server.cfg
 > - Ajoutez la ligne suivante à la fin de votre server.cfg : **exec overextended.cfg**
 > - Démarrez les ressources dans cet ordre :
+
+```
 > - ensure oxmysql 
 > - ensure es_extended 
 > - ensure [core] 
 > - ensure ox_lib 
 > - ensure ox_target 
 > - ensure [overextended]
+```
