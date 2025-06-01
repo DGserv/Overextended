@@ -8,7 +8,11 @@
 
 2- Ajoutez la ligne suivante à la fin de votre server.cfg : exec overextended.cfg
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!Envoyez le fichier sur votre hébergeur]
+> Envoyez le fichier overextended.cfg sur votre hébergeur, au même emplacement que votre server.cfg
+
+
+> [!Modifier votre server.cfg]
+> Ajoutez la ligne suivante à la fin de votre server.cfg : **exec overextended.cfg**
 
 
